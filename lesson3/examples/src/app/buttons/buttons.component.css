@@ -23,3 +23,9 @@ button {
 .copper {
    background: #b87333 ;
 }
+#myContainer{
+   border: 1px black solid;
+   width: 350px;
+   height: 130px;
+
+}
